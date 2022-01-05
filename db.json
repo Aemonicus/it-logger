@@ -2,21 +2,30 @@
   "logs": [
     {
       "id": 1,
-      "message": "Changed hard drive",
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
+      "message": "Changed hard drive 2",
+      "tech": "Sam Smith",
+      "date": "2022-01-05T21:23:18.057Z"
     },
     {
       "id": 2,
-      "message": "Changed hard drive 2",
-      "date": "13-02-2019",
-      "tech": "Samy Smithy"
+      "message": "Changed hard drive 24",
+      "attention": true,
+      "tech": "Toto Tata",
+      "date": "2022-01-05T21:19:32.820Z"
     },
     {
-      "id": 3,
-      "message": "Changed hard drive 3",
-      "date": "23-02-2019",
-      "tech": "Samo Smitho"
+      "message": "yo",
+      "attention": false,
+      "tech": "Toto Tata",
+      "date": "2022-01-05T21:31:39.448Z",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "message": "t2",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2022-01-05T21:32:47.210Z"
     }
   ],
   "techs": [
@@ -31,14 +40,14 @@
       "lastName": "Smithy"
     },
     {
-      "id": 3,
-      "firstName": "Samo",
-      "lastName": "Smitho"
+      "firstName": "greg",
+      "lastName": "ory",
+      "id": 5
     },
     {
-      "firstName": "toto",
-      "lastName": "yoyo",
-      "id": 4
+      "firstName": "Jill",
+      "lastName": "Valentine",
+      "id": 6
     }
   ]
 }
